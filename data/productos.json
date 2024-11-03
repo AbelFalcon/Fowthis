@@ -1,0 +1,13 @@
+ {
+    "url":"https://www.coolmod.com/keychron-v3-knob-iso-es-rgb-switch-k-pro-red/",
+    "selectorPrecio":"span.product_price.int_price"
+  },
+  {
+    "url":"https://www.coolmod.com/the-g-lab-pad-yttrium-xxl-gaming-alfombrilla/",
+    "selectorPrecio":"span.product_price.int_price"
+  },
+  {
+    "url":"https://www.coolmod.com/the-g-lab-pad-yttrium-xxl-gaming-alfombrilla/",
+    "selectorPrecio":"span.product_price.int_price"
+  }
+]
